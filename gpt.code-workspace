@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/DeepLearning"
+		},
+		{
+			"name": "test",
+			"path": "../../../test"
+		}
+	],
+	"settings": {}
+}
