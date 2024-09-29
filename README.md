@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project [pdf] (https://github.com/wzrdl/Automatic-prompt-optimization-for-medical-prompts/blob/main/thesis.pdf) focuses on developing an **Automatic Prompt Optimization** method using **text-based gradient descent** and **momentum techniques**. The goal is to optimize prompt engineering strategies for **Large Language Models (LLMs)**, enhancing their performance in medical datasets by up to **20%**. Additionally, the project introduces a **Bayesian reverse validation method** to evaluate and improve the effectiveness of prompt optimization, significantly boosting the reasoning capabilities of LLMs.
+This project [pdf](https://github.com/wzrdl/Automatic-prompt-optimization-for-medical-prompts/blob/main/thesis.pdf) focuses on developing an **Automatic Prompt Optimization** method using **text-based gradient descent** and **momentum techniques**. The goal is to optimize prompt engineering strategies for **Large Language Models (LLMs)**, enhancing their performance in medical datasets by up to **20%**. Additionally, the project introduces a **Bayesian reverse validation method** to evaluate and improve the effectiveness of prompt optimization, significantly boosting the reasoning capabilities of LLMs.
 
 We utilize **Langchain** for model orchestration, implement API calls, and explore the **local deployment** of large models. Our approach leverages state-of-the-art tools and methodologies to push the boundaries of LLM performance in the medical field.
 
